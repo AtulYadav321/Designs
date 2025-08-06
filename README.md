@@ -18,6 +18,6 @@ This GitHub repository is a showcase of my designs.
 <img width="1400" height="1400" alt="Social Poster" src="https://github.com/user-attachments/assets/5171339e-95b5-4e7f-b98b-d50feb51f77a" />
 
 # Another poster
-
+Extendo (1).png
 
 

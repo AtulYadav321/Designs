@@ -18,6 +18,5 @@ This GitHub repository is a showcase of my designs.
 <img width="1400" height="1400" alt="Social Poster" src="https://github.com/user-attachments/assets/5171339e-95b5-4e7f-b98b-d50feb51f77a" />
 
 # Another poster
-[Extendo (1).png](https://github.com/AtulYadav321/Designs/blob/600294820da92c4cdadfbeb1c7e662e69451e1e2/Extendo%20(1).png)
-
+<img width="1400" height="1400" alt="Extendo (1)" src="https://github.com/user-attachments/assets/402f6cd1-f5e7-45bf-9905-493ed601fa98" />
 
